@@ -1,0 +1,105 @@
+{
+    "meta": {
+        "version": "1.1",
+        "private": false,
+        "simpleMode": false,
+        "showSimpleModeToggle": true,
+        "countdown": true
+    },
+    "sections": {
+        "hero": true,
+        "eventDetails": true,
+        "schedule-section": true,
+        "quotes-section": true,
+        "location-section": true,
+        "design-section": true,
+        "music-section": true,
+        "rsvp": true,
+        "footer": false
+    },
+    "quoteTitle": "Kalo kalian sedih,tenang ada kami yang bisa menghibur kalian",
+    "quotes": [
+        {
+            "text": "Waktu is time",
+            "author": "nawfal"
+        },
+        {
+            "text": "percaya proses jangan protes",
+            "author": "ghian"
+        }
+    ],
+    "social": {
+        "instagram": ""
+    },
+    "event": {
+        "title": "Nawfal and Ghian Sweet Eighteen",
+        "subtitle": "Ayo rayakan ultah kami",
+        "description": "Dresscode basing kamu orang"
+    },
+    "datetime": {
+        "date": "2026-11-28",
+        "startTime": "18.00",
+        "endTime": "sampai dengan selesai",
+        "timezone": "local",
+        "allDay": false
+    },
+    "location": {
+        "name": "Rumah Nopal",
+        "address": "Sinarharapan,RT 10",
+        "mapsLink": "https://maps.app.goo.gl/TFni2UsbfratcFoUA"
+    },
+    "schedule": [
+        {
+            "time": "06:00 malam",
+            "label": "bakar bakar"
+        },
+        {
+            "time": "08:00 malam",
+            "label": "makan makan"
+        },
+        {
+            "time": "09:00 malam",
+            "label": "board game"
+        }
+    ],
+    "rsvp": {
+        "enabled": true,
+        "url": "https://wa.me/6285257263820"
+    },
+    "calendar": {
+        "enabled": true,
+        "providers": {
+            "google": true
+        }
+    },
+    "design": {
+        "theme": "dark",
+        "accentColor": "#13c1ec",
+        "heroImages": [],
+        "sectionBackgrounds": []
+    },
+    "music": {
+        "enabled": true,
+        "loop": true,
+        "volume": 0.3,
+        "audioUrl": ""
+    },
+    "footer": {
+        "text": "",
+        "branding": {
+            "link": "#",
+            "logoUrl": "https://raw.githubusercontent.com/Rainier-PS/rainier-ps.github.io/main/images/site/Rainier%20Logo-Primary.svg",
+            "logoAlt": "Logo"
+        },
+        "credits": {
+            "designByLabel": "Created & Designed by",
+            "copyrightYear": "2026",
+            "authorName": "",
+            "templateLabel": "Template by",
+            "templateAuthor": "Rainier Pearson Saputra",
+            "templateLink": "https://rainier-ps.github.io/",
+            "repoLabel": "Open Repository",
+            "repoLink": "https://github.com/Rainier-PS/Invitation-Template"
+        }
+    }
+}
